@@ -1,0 +1,12 @@
+2023-07-25 21:49:39,348 [1] INFO  Program - Aplikasi telah dimulai.
+2023-07-25 21:49:39,361 [1] DEBUG Program - Ini adalah pesan tingkatan Debug
+2023-07-25 21:49:39,362 [1] INFO  Program - Ini adalah pesan tingkatan Info
+2023-07-25 21:49:39,362 [1] WARN  Program - Ini adalah pesan tingkatan Warning
+2023-07-25 21:49:39,362 [1] ERROR Program - Ini adalah pesan tingkatan Error
+2023-07-25 21:49:39,362 [1] FATAL Program - Ini adalah pesan tingkatan Fatal
+2023-07-25 21:50:25,028 [1] INFO  Program - Aplikasi telah dimulai.
+2023-07-25 21:50:25,041 [1] DEBUG Program - Ini adalah pesan tingkatan Debug
+2023-07-25 21:50:25,041 [1] INFO  Program - Ini adalah pesan tingkatan Info
+2023-07-25 21:50:25,041 [1] WARN  Program - Ini adalah pesan tingkatan Warning
+2023-07-25 21:50:25,041 [1] ERROR Program - Ini adalah pesan tingkatan Error
+2023-07-25 21:50:25,041 [1] FATAL Program - Ini adalah pesan tingkatan Fatal
